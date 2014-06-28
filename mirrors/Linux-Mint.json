@@ -1,25 +1,25 @@
 {
   "mirrors": [
     {
-      "url": "http://mirror.metrocast.net/linuxmint/stable/16/linuxmint-16-cinnamon-dvd-64bit.iso",
+      "url": "http://mirror.metrocast.net/linuxmint//stable/17/linuxmint-17-cinnamon-dvd-64bit.iso",
       "name": "MetroCast Cablevision",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://www.mirrorservice.org/sites/www.linuxmint.com/pub/linuxmint.com/stable/16/linuxmint-16-cinnamon-dvd-64bit.iso",
+      "url": "http://www.mirrorservice.org/sites/www.linuxmint.com/pub/linuxmint.com//stable/17/linuxmint-17-cinnamon-dvd-64bit.iso",
       "name": "University of Kent: UK Mirror Service",
       "countryLong": "Great Britain"
     },
     {
-      "url": "http://ftp.cixug.es/mint/linuxmint.com/stable/16/linuxmint-16-cinnamon-dvd-64bit.iso",
+      "url": "http://ftp.cixug.es/mint/linuxmint.com//stable/17/linuxmint-17-cinnamon-dvd-64bit.iso",
       "name": "Oficina de Software Libre do Cixuga",
       "countryLong": "Spain"
     },
     {
-        "url": "http://ftp.stust.edu.tw/pub/Linux/LinuxMint/isos/stable/16/linuxmint-16-cinnamon-dvd-64bit.iso",
+        "url": "http://ftp.stust.edu.tw/pub/Linux/LinuxMint/isos//stable/17/linuxmint-17-cinnamon-dvd-64bit.iso",
         "name": "Southern Taiwan University of Science and Technology",
         "countryLong": "Taiwan"
     }
   ],
-  "imageURL": "http://www.example.com/test.jpg"
+  "imageURL": "Linux-Mint.png"
 }
