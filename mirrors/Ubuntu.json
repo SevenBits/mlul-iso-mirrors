@@ -1,0 +1,10 @@
+{
+  "mirrors": [
+    {
+      "url": "http://releases.ubuntu.com/14.04/ubuntu-14.04-desktop-amd64.iso",
+      "name": "Canonical",
+      "countryLong": "United States of America"
+    }
+  ],
+  "imageURL": "https://github.com/SevenBits/mlul-iso-mirrors/raw/master/mirrors/Linux-Mint.png"
+}
