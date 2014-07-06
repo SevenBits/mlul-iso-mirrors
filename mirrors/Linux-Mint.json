@@ -16,9 +16,9 @@
       "countryLong": "Spain"
     },
     {
-        "url": "http://ftp.stust.edu.tw/pub/Linux/LinuxMint/isos//stable/17/linuxmint-17-cinnamon-dvd-64bit.iso",
-        "name": "Southern Taiwan University of Science and Technology",
-        "countryLong": "Taiwan"
+	  "url": "http://ftp.stust.edu.tw/pub/Linux/LinuxMint/isos//stable/17/linuxmint-17-cinnamon-dvd-64bit.iso",
+	  "name": "Southern Taiwan University of Science and Technology",
+	  "countryLong": "Taiwan"
     }
   ],
   "imageURL": "https://github.com/SevenBits/mlul-iso-mirrors/raw/master/mirrors/Linux-Mint.png"
