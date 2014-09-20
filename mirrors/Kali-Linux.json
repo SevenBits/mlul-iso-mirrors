@@ -1,0 +1,10 @@
+{
+  "mirrors": [
+    {
+      "url": "http://cdimage.kali.org/kali-1.0.9/kali-linux-1.0.9-amd64.iso",
+      "name": "Offensive Security Official”,
+      "countryLong": "United States of America"
+    }
+  ],
+  "imageURL": "https://github.com/SevenBits/mlul-iso-mirrors/raw/master/mirrors/Kali-Linux.jpg"
+}
