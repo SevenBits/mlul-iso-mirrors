@@ -1,17 +1,17 @@
 {
   "mirrors": [
     {
-      "url": "http://downloads.sourceforge.net/project/zorin-os/9/zorin-os-9.1-core-64.iso?r=http%3A%2F%2Fzorin-os.com%2Ffree.html&ts=1409513548&use_mirror=softlayer-dal",
+      "url": "http://downloads.sourceforge.net/project/zorin-os/9/zorin-os-9.1-core-64.iso?use_mirror=softlayer-dal",
       "name": "Softlayer",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/zorin-os/9/zorin-os-9.1-core-64.iso?r=http%3A%2F%2Fzorin-os.com%2Ffree.html&ts=1409513548&use_mirror=iweb",
+      "url": "http://downloads.sourceforge.net/project/zorin-os/9/zorin-os-9.1-core-64.iso?use_mirror=iweb",
       "name": "iWeb",
       "countryLong": "Canada"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/zorin-os/9/zorin-os-9.1-core-64.iso?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fzorin-os%2Ffiles%2F9%2Fzorin-os-9.1-core-64.iso%2Fdownload&ts=1409513780&use_mirror=skylink",
+      "url": "http://downloads.sourceforge.net/project/zorin-os/9/zorin-os-9.1-core-64.iso?use_mirror=skylink",
       "name": "Skylink",
       "countryLong": "Germany"
     }

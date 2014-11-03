@@ -1,17 +1,17 @@
 {
   "mirrors": [
     {
-      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Felementaryos%2Ffiles%2Fstable%2Felementaryos-stable-amd64.20130810.iso%2Fdownload&ts=1404407034&use_mirror=softlayer-dal",
+      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?use_mirror=softlayer-dal",
       "name": "Softlayer",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Felementaryos%2Ffiles%2Fstable%2Felementaryos-stable-amd64.20130810.iso%2Fdownload&ts=1404406934&use_mirror=iweb",
+      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?use_mirror=iweb",
       "name": "iWeb",
       "countryLong": "Canada"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Felementaryos%2Ffiles%2Fstable%2Felementaryos-stable-amd64.20130810.iso%2Fdownload&ts=1404407086&use_mirror=heanet",
+      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?use_mirror=heanet",
       "name": "Heanet",
       "countryLong": "Ireland"
     }
