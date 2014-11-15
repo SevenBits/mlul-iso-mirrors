@@ -1,7 +1,7 @@
 {
   "mirrors": [
     {
-      "url": "http://mirror.metrocast.net/linuxmint//stable/17/linuxmint-17-cinnamon-dvd-64bit.iso",
+      "url": "http://mirror.metrocast.net/linuxmint/stable/17/linuxmint-17-cinnamon-64bit-v2.iso",
       "name": "MetroCast Cablevision",
       "countryLong": "United States of America"
     },
