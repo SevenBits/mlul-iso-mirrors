@@ -2,7 +2,7 @@
   "mirrors": [
     {
       "url": "http://www.mirrorservice.org/sites/www.linuxmint.com/pub/linuxmint.com//stable/17.1/linuxmint-17.1-cinnamon-64bit.iso",
-      "name": "University of Kent: UK Mirror Service",
+      "name": "AARNet",
       "countryLong": "Australia"
     },
     {
