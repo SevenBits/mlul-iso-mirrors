@@ -1,7 +1,7 @@
 {
   "mirrors": [
     {
-      "url": "http://releases.ubuntu.com/14.10/ubuntu-14.10-desktop-amd64.iso",
+      "url": "http://releases.ubuntu.com/15.04/ubuntu-15.04-desktop-amd64.iso",
       "name": "Canonical",
       "countryLong": "United States of America"
     }
