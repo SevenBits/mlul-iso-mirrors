@@ -1,17 +1,17 @@
 {
   "mirrors": [
     {
-      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?use_mirror=softlayer-dal",
+      "url": "http://iweb.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
       "name": "Softlayer",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?use_mirror=iweb",
+      "url": "http://iweb.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
       "name": "iWeb",
       "countryLong": "Canada"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/elementaryos/stable/elementaryos-stable-amd64.20130810.iso?use_mirror=heanet",
+      "url": "http://heanet.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
       "name": "Heanet",
       "countryLong": "Ireland"
     }
