@@ -4,6 +4,26 @@
       "url": "http://releases.ubuntu.com/15.04/ubuntu-15.04-desktop-amd64.iso",
       "name": "Canonical",
       "countryLong": "United States of America"
+    },
+    {
+      "url": "http://ftp.free.fr/mirrors/ftp.ubuntu.com/releases/15.04/ubuntu-15.04-desktop-amd64.iso",
+      "name": "free.fr",
+      "countryLong": "France"
+    },
+    {
+      "url": "http://de.releases.ubuntu.com/vivid/ubuntu-15.04-desktop-amd64.iso",
+      "name": "Canonical",
+      "countryLong": "Germany"
+    },
+    {
+      "url": "http://ubuntu.cica.es/releases/vivid/ubuntu-15.04-desktop-amd64.iso",
+      "name": "Centro Informático Científico de Andalucía",
+      "countryLong": "Spain"
+    },
+    {
+      "url": "http://mirror.pnl.gov/releases/15.04/ubuntu-15.04-desktop-amd64.iso",
+      "name": "National Taiwan University",
+      "countryLong": "Taiwan"
     }
   ],
   "imageURL": "https://github.com/SevenBits/mlul-iso-mirrors/raw/master/mirrors/Ubuntu.png"
