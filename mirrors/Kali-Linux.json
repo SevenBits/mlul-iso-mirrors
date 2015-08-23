@@ -1,7 +1,7 @@
 {
   "mirrors": [
     {
-      "url": "http://cdimage.kali.org/kali-1.1.0a/kali-linux-1.1.0a-amd64.iso",
+      "url": "http://cdimage.kali.org/kali-2.0/kali-linux-2.0-amd64.iso",
       "name": "Offensive Security Official",
       "countryLong": "United States of America"
     }
