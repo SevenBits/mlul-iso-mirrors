@@ -16,6 +16,31 @@
       "countryLong": "Germany"
     },
     {
+      "url": "http://ubuntu.les.net/15.10/ubuntu-15.10-desktop-amd64.iso",
+      "name": "LES.NET",
+      "countryLong": "Canada"
+    },
+    {
+      "url": "http://mirror.edatel.net.co/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso",
+      "name": "Edatel",
+      "countryLong": "Colombia"
+    },
+    {
+      "url": "http://ftp.sjtu.edu.cn/ubuntu-cd/15.10/ubuntu-15.10-desktop-amd64.iso",
+      "name": "Shanghai Jiao Tong University",
+      "countryLong": "China"
+    },
+    {
+      "url": "http://ubnt-releases.xfree.com.ar/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso",
+      "name": "Xfree",
+      "countryLong": "Argentina"
+    },
+    {
+      "url": "http://ftp.iinet.net.au/pub/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso",
+      "name": "iiNet",
+      "countryLong": "Australia"
+    },
+    {
       "url": "http://ubuntu.cica.es/releases/15.10/ubuntu-15.10-desktop-amd64.iso",
       "name": "Centro Informático Científico de Andalucía",
       "countryLong": "Spain"
