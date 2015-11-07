@@ -5,9 +5,9 @@ Hey everyone. This repository is kind of special. As I [mentioned in one of my b
 
   1. The process is more convenient and fast for end users, as you can download from the server closest to you.
   1. It is easier on bandwidth, as users can choose from many servers instead of just one, lightening the load on each server.
-  1. It is more community-orientied, because now everyone can contribute.
+  1. It is more community-oriented, because now everyone can contribute.
 
-This repository is structured so that the `mirrors` folder contains JSON files, one for each distribution supported by Mac Linux USB Loader. Because the distribution downloader will only support downloading the *latest version* of each supported distribution, maintenence will simply involve updating the JSON files at each new release of a supported distribution. Here's an example of the Linux Mint JSON file, `Linux-Mint.json`:
+This repository is structured so that the `mirrors` folder contains JSON files, one for each distribution supported by Mac Linux USB Loader. Because the distribution downloader will only support downloading the *latest version* of each supported distribution, maintenance will simply involve updating the JSON files at each new release of a supported distribution. Here's an example of the Linux Mint JSON file, `Linux-Mint.json`:
 
 ```JSON
 {
