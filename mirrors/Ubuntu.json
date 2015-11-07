@@ -51,5 +51,6 @@
       "countryLong": "Taiwan"
     }
   ],
-  "imageURL": "https://github.com/SevenBits/mlul-iso-mirrors/raw/master/mirrors/Ubuntu.png"
+  "imageURL": "https://github.com/SevenBits/mlul-iso-mirrors/raw/master/mirrors/Ubuntu.png",
+  "websiteURL": "http://www.ubuntu.com"
 }
