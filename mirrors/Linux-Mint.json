@@ -21,9 +21,9 @@
       "countryLong": "Spain"
     },
     {
-	  "url": "http://ftp.yzu.edu.tw/Linux/linuxmint/isos//stable/17.2/linuxmint-17.2-cinnamon-64bit.iso",
-	  "name": "Yuan Ze University, Department of Computer Science and Engineering",
-	  "countryLong": "Taiwan"
+      "url": "http://ftp.yzu.edu.tw/Linux/linuxmint/isos//stable/17.2/linuxmint-17.2-cinnamon-64bit.iso",
+      "name": "Yuan Ze University, Department of Computer Science and Engineering",
+      "countryLong": "Taiwan"
     }
   ],
   "imageURL": "https://github.com/SevenBits/mlul-iso-mirrors/raw/master/mirrors/Linux-Mint.png",
