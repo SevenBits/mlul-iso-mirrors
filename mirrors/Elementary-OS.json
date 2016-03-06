@@ -1,22 +1,22 @@
 {
   "mirrors": [
     {
-      "url": "http://iweb.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
+      "url": "https://iweb.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
       "name": "Softlayer",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://iweb.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
+      "url": "https://iweb.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
       "name": "iWeb",
       "countryLong": "Canada"
     },
     {
-      "url": "http://heanet.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
+      "url": "https://heanet.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
       "name": "Heanet",
       "countryLong": "Ireland"
     },
     {
-      "url": "http://internode.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
+      "url": "https://internode.dl.sourceforge.net/project/elementaryos/stable/elementaryos-freya-amd64.20150411.iso",
       "name": "Internode",
       "countryLong": "Australia"
     }

@@ -1,17 +1,17 @@
 {
   "mirrors": [
     {
-      "url": "http://downloads.sourceforge.net/project/zorin-os/11/zorin-os-11-core-64.iso?use_mirror=softlayer-dal",
+      "url": "https://downloads.sourceforge.net/project/zorin-os/11/zorin-os-11-core-64.iso?use_mirror=softlayer-dal",
       "name": "Softlayer",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/zorin-os/11/zorin-os-11-core-64.iso?use_mirror=iweb",
+      "url": "https://downloads.sourceforge.net/project/zorin-os/11/zorin-os-11-core-64.iso?use_mirror=iweb",
       "name": "iWeb",
       "countryLong": "Canada"
     },
     {
-      "url": "http://downloads.sourceforge.net/project/zorin-os/11/zorin-os-11-core-64.iso?use_mirror=skylink",
+      "url": "https://downloads.sourceforge.net/project/zorin-os/11/zorin-os-11-core-64.iso?use_mirror=skylink",
       "name": "Skylink",
       "countryLong": "Germany"
     }
