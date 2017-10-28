@@ -1,27 +1,27 @@
 {
   "mirrors": [
     {
-      "url": "http://mirror.aarnet.edu.au/pub/linuxmint//stable/18.1/linuxmint-18.1-cinnamon-64bit.iso",
+      "url": "http://mirror.aarnet.edu.au/pub/linuxmint//stable/18.2/linuxmint-18.2-cinnamon-64bit.iso",
       "name": "AARNet",
       "countryLong": "Australia"
     },
     {
-      "url": "http://mirror.metrocast.net/linuxmint//stable/18.1/linuxmint-18.1-cinnamon-64bit.iso",
+      "url": "http://mirror.metrocast.net/linuxmint//stable/18.2/linuxmint-18.2-cinnamon-64bit.iso",
       "name": "MetroCast Cablevision",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://www.mirrorservice.org/sites/www.linuxmint.com/pub/linuxmint.com//stable/18.1/linuxmint-18.1-cinnamon-64bit.iso",
+      "url": "http://www.mirrorservice.org/sites/www.linuxmint.com/pub/linuxmint.com//stable/18.2/linuxmint-18.2-cinnamon-64bit.iso",
       "name": "University of Kent: UK Mirror Service",
       "countryLong": "Great Britain"
     },
     {
-      "url": "http://ftp.cixug.es/mint/linuxmint.com//stable/18.1/linuxmint-18.1-cinnamon-64bit.iso",
+      "url": "http://ftp.cixug.es/mint/linuxmint.com//stable/18.2/linuxmint-18.2-cinnamon-64bit.iso",
       "name": "Oficina de Software Libre do Cixuga",
       "countryLong": "Spain"
     },
     {
-      "url": "http://ftp.yzu.edu.tw/Linux/linuxmint/isos//stable/18.1/linuxmint-18.1-cinnamon-64bit.iso",
+      "url": "http://ftp.yzu.edu.tw/Linux/linuxmint/isos//stable/18.2/linuxmint-18.2-cinnamon-64bit.iso",
       "name": "Yuan Ze University, Department of Computer Science and Engineering",
       "countryLong": "Taiwan"
     }
