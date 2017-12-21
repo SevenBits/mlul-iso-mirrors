@@ -1,22 +1,22 @@
 {
   "mirrors": [
     {
-      "url": "http://mirror.rit.edu/debian-cd/8.7.1-live/amd64/iso-hybrid/debian-live-8.7.1-amd64-gnome-desktop.iso",
+      "url": "http://mirror.rit.edu/debian-cd/9.3.0-live/amd64/iso-hybrid/debian-live-9.3.0-amd64-gnome-desktop.iso",
       "name": "Rochester Institute of Technology",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://mirror.cs.uwm.edu/debian-cd/8.7.1-live/amd64/iso-hybrid/debian-live-8.7.1-amd64-gnome-desktop.iso",
+      "url": "http://mirror.cs.uwm.edu/debian-cd/9.3.0-live/amd64/iso-hybrid/debian-live-9.3.0-amd64-gnome-desktop.iso",
       "name": "University of Wisconsin",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://mirror.23media.de/debian-cd/8.7.1-live/amd64/iso-hybrid/debian-live-8.7.1-amd64-gnome-desktop.iso",
+      "url": "http://mirror.23media.de/debian-cd/9.3.0-live/amd64/iso-hybrid/debian-live-9.3.0-amd64-gnome-desktop.iso",
       "name": "23media",
       "countryLong": "Germany"
     },
     {
-      "url": "http://debian.xfree.com.ar/debian-cd/8.7.1-live/amd64/iso-hybrid/debian-live-8.7.1-amd64-gnome-desktop.iso",
+      "url": "http://debian.xfree.com.ar/debian-cd/9.3.0-live/amd64/iso-hybrid/debian-live-9.3.0-amd64-gnome-desktop.iso",
       "name": "XFree",
       "countryLong": "Argentina"
     }
