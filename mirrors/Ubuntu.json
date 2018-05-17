@@ -1,52 +1,52 @@
 {
   "mirrors": [
     {
-      "url": "http://releases.ubuntu.com/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://releases.ubuntu.com/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "Canonical",
       "countryLong": "United States of America"
     },
     {
-      "url": "http://ftp.free.fr/mirrors/ftp.ubuntu.com/releases/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://ftp.free.fr/mirrors/ftp.ubuntu.com/releases/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "free.fr",
       "countryLong": "France"
     },
     {
-      "url": "http://de.releases.ubuntu.com/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://de.releases.ubuntu.com/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "Canonical",
       "countryLong": "Germany"
     },
     {
-      "url": "http://ubuntu.les.net/releases/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://ubuntu.les.net/releases/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "LES.NET",
       "countryLong": "Canada"
     },
     {
-      "url": "http://mirror.edatel.net.co/ubuntu-releases/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://mirror.edatel.net.co/ubuntu-releases/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "Edatel",
       "countryLong": "Colombia"
     },
     {
-      "url": "http://ftp.sjtu.edu.cn/ubuntu-cd/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://ftp.sjtu.edu.cn/ubuntu-cd/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "Shanghai Jiao Tong University",
       "countryLong": "China"
     },
     {
-      "url": "http://ubnt-releases.xfree.com.ar/ubuntu-releases/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://ubnt-releases.xfree.com.ar/ubuntu-releases/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "Xfree",
       "countryLong": "Argentina"
     },
     {
-      "url": "http://ftp.iinet.net.au/pub/ubuntu-releases/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://ftp.iinet.net.au/pub/ubuntu-releases/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "iiNet",
       "countryLong": "Australia"
     },
     {
-      "url": "http://ubuntu.cica.es/releases/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://ubuntu.cica.es/releases/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "Centro Informático Científico de Andalucía",
       "countryLong": "Spain"
     },
     {
-      "url": "http://tw.archive.ubuntu.com/ubuntu-cd/17.10/ubuntu-17.10-desktop-amd64.iso",
+      "url": "http://tw.archive.ubuntu.com/ubuntu-cd/18.04/ubuntu-18.04-desktop-amd64.iso",
       "name": "Canonical",
       "countryLong": "Taiwan"
     }
